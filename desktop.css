@@ -1,0 +1,46 @@
+* {
+    font-family: "Montserrat", serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1920px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.banner_credit {
+    background-image: url("/Images/credit-banner-header.png");
+}
+
+.helpful_left {
+    border-radius: 8px 75px;
+}
+
+.helpful_right {
+    border-radius: 0 65px 65px 10px;
+}
+
+.credit_report {
+    background-color: rgba(44, 45, 50, 1);
+}
+
+.report_title {
+    margin-top: 107px;
+    width: 1211px;
+    max-width: 100%;
+}
+
+.report_img {
+    margin-left: 335px;
+    width: 108;
+    height: 108;
+    position: absolute;
+    left: 335px;
+}
+
+
+
+@media (max-width: 1280px) {}
